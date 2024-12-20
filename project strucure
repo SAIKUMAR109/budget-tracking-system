@@ -1,0 +1,23 @@
+budget-tracker/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── budgettracker/
+│   │   │               ├── BudgetTrackerApplication.java
+│   │   │               ├── controller/
+│   │   │               │   ├── ExpenseController.java
+│   │   │               │   └── IncomeController.java
+│   │   │               ├── model/
+│   │   │               │   ├── Expense.java
+│   │   │               │   └── Income.java
+│   │   │               ├── repository/
+│   │   │               │   ├── ExpenseRepository.java
+│   │   │               │   └── IncomeRepository.java
+│   │   │               └── service/
+│   │   │                   ├── ExpenseService.java
+│   │   │                   └── IncomeService.java
+│   │   └── resources/
+│   │       ├── application.properties
+└── pom.xml
