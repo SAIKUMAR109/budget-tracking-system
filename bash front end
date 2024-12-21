@@ -1,0 +1,5 @@
+npx create-react-app budget-tracker
+cd budget-tracker
+npm install
+replace "src" code
+npm start
